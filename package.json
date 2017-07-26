@@ -1,0 +1,22 @@
+{
+  "name": "object-assign-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill for Object.assign()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiansany/object-assign-polyfill.git"
+  },
+  "keywords": [
+    "IE11",
+    "Object",
+    "assign",
+    "polyfill"
+  ],
+  "author": "Christian Sany <christian.sany@bluewin.ch>",
+  "license": "ISC",
+  "homepage": "https://github.com/christiansany/object-assign-polyfill"
+}
