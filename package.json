@@ -1,7 +1,7 @@
 {
-  "name": "object-assign-polyfill",
+  "name": "object-assign-polyfill2",
   "version": "1.0.0",
-  "description": "Polyfill for Object.assign()",
+  "description": "ES5 compatible Polyfill for Object.assign()",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
